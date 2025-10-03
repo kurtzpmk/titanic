@@ -1,8 +1,8 @@
-# lembrar dos pip install
+pip install pandas matplotlib seaborn scikit-learn
 
 # Análise e Predição de Sobrevivência no Titanic
 
-Este relatório apresenta uma análise do dataset do Titanic, baseado no desafio do Kaggle[](https://www.kaggle.com/competitions/titanic/overview). O notebook IPython anexado (`Main.ipynb`) foi utilizado para processar os dados, treinar modelos de machine learning e gerar predições. A seguir, detalho o tema do projeto, a preparação dos dados, os modelos utilizados e os resultados obtidos, conforme solicitado.
+Este relatório apresenta uma análise do dataset do Titanic, baseado no desafio do Kaggle[](https://www.kaggle.com/competitions/titanic/overview). O notebook IPython anexado (`Main.ipynb`) foi utilizado para processar os dados, treinar modelos de machine learning e gerar predições.
 
 ## Tema do Projeto
 
